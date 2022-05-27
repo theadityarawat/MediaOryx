@@ -18,7 +18,7 @@ body a {
 }
 
 .background-image {
-  background-image: url("assets/images/5.png");
+  background-image: url("assets/images/16.png");
   background-color: #cccccc;
   height: 570px;
   background-position: center;
@@ -65,7 +65,7 @@ body a {
 .card-front {
   height: 100%;
   width: 100%;
-  background-image: url(https://wallpaper.dog/large/20526437.jpg);
+  background-image: url("assets/images/14.png");
   background-position: 50% 50%;
   background-size: cover;
   position: absolute;
