@@ -11,6 +11,24 @@ body {
     text-decoration: none;
   }
 
+  .background-image {
+    background-image: url("assets/images/5.png");
+    background-color: #cccccc;
+    height: 570px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile-intro {
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
   .flex {
     display: flex;
     max-width: 1200px;
